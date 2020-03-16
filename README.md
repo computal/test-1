@@ -8,7 +8,7 @@
 
 `ko web`
 
-[naver](https://google.com, "네이버")
+[google](https://google.com, "네이버")
 
 ![이미지](http://kyrieko.dothome.co.kr/images/first.jpg)
 
