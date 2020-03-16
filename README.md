@@ -12,7 +12,3 @@
 
 ![이미지](http://kyrieko.dothome.co.kr/images/first.jpg)
 
-
-
-- a
-  - b
