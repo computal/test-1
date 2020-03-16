@@ -8,7 +8,7 @@
 
 `ko web`
 
-[google]('https://google.com', "구글")
+[google](https://google.com, "구글")
 
 ![이미지](http://kyrieko.dothome.co.kr/images/first.jpg)
 
